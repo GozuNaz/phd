@@ -1,0 +1,181 @@
+    # Project definitions (do not edit)
+Task: Remote_final
+scorer: Gozu
+date: Mar29
+multianimalproject: true
+identity: true
+
+    # Project path (change when moving around)
+project_path: D:\praca\ML\Remote_final-Gozu-2022-03-29
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\hab1_KO2.mp4:
+    crop: 0, 344, 0, 224
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\hab1_KO3.mp4:
+    crop: 0, 344, 0, 224
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\hab1_KO4.mp4:
+    crop: 0, 344, 0, 224
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\hab1_KO5.mp4:
+    crop: 0, 344, 0, 224
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\hab1_KO6.mp4:
+    crop: 0, 344, 0, 224
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\hab1_WT1.mp4:
+    crop: 0, 344, 0, 224
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\hab1_WT2.mp4:
+    crop: 0, 344, 0, 224
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\hab1_WT4.mp4:
+    crop: 0, 344, 0, 224
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\hab1_WT5.mp4:
+    crop: 0, 344, 0, 224
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\day1_ko1-05182020131911-0000.mp4:
+    crop: 0, 1024, 0, 600
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\day1_ko2-05182020134006-0000.mp4:
+    crop: 0, 1024, 0, 600
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\day1_ko3-05182020135627-0000.mp4:
+    crop: 0, 1024, 0, 600
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\day1_ko4-05182020141654-0000.mp4:
+    crop: 0, 1024, 0, 600
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\day1_wt5-05182020143434-0000.mp4:
+    crop: 0, 1024, 0, 600
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\day1_wt6-05182020145325-0000.mp4:
+    crop: 0, 1024, 0, 600
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\day1_wt7-05182020151130-0000.mp4:
+    crop: 0, 1024, 0, 600
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\day1_wt8-05182020152929-0000.mp4:
+    crop: 0, 1024, 0, 600
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\day1_wt9-05182020154959-0000.mp4:
+    crop: 0, 1024, 0, 600
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\CTRL_KO_1.mp4:
+    crop: 0, 550, 0, 380
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\CTRL_KO_3.mp4:
+    crop: 0, 550, 0, 380
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\CTRL_KO_4.mp4:
+    crop: 0, 550, 0, 380
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\CTRL_KO_5.mp4:
+    crop: 0, 550, 0, 380
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\CTRL_KO_6.mp4:
+    crop: 0, 550, 0, 380
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\EXP_KO_1.mp4:
+    crop: 0, 550, 0, 380
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\EXP_KO_2.mp4:
+    crop: 0, 550, 0, 380
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\EXP_KO_3.mp4:
+    crop: 0, 550, 0, 380
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\EXP_KO_4.mp4:
+    crop: 0, 550, 0, 380
+  D:\praca\ML\Remote_final-Gozu-2022-03-29\videos\EXP_KO_5.mp4:
+    crop: 0, 550, 0, 380
+  D:\praca\ML\video_dlc\FX_012022_samiec_DAY2_EXP_KO_Remote_SST_11.mp4:
+    crop: 0, 1368, 0, 812
+  D:\praca\ML\video_dlc\FX_012022_samiec_DAY2_EXP_KO_Remote_SST_10.mp4:
+    crop: 0, 1368, 0, 812
+  D:\praca\ML\video_dlc\FX_012022_samiec_DAY1_EXP_KO_Remote_SST_7.mp4:
+    crop: 0, 1368, 0, 812
+  D:\praca\ML\video_dlc\FX_012022_samiec_DAY1_CTRL_WT_Remote_SST_1.mp4:
+    crop: 0, 1368, 0, 812
+  D:\praca\ML\video_dlc\FX_012022_samiec_DAY1_CTRL_KO_Remote_SST_6.mp4:
+    crop: 0, 1368, 0, 812
+  D:\praca\ML\video_dlc\FX_012022_samiec_DAY1_CTRL_KO_Remote_SST_5.mp4:
+    crop: 0, 1368, 0, 812
+  D:\praca\ML\video_dlc\FX_012022_samiec_DAY1_CTRL_KO_Remote_SST_4.mp4:
+    crop: 0, 1368, 0, 812
+  D:\praca\ML\video_dlc\nowe_douczanie_dlc\FX_150319_samiec_DAY5_EXP_KO_2.mp4:
+    crop: 0, 999, 0, 605
+  D:\praca\ML\video_dlc\nowe_douczanie_dlc\FX_150319_samiec_TESTDAY_EXP_KO_2.mp4:
+    crop: 0, 992, 0, 615
+  D:\praca\ML\video_dlc\nowe_douczanie_dlc\FX_250520_samiec_DAY5_CTRL_wt_8.mp4:
+    crop: 0, 1024, 0, 660
+  D:\praca\ML\video_dlc\nowe_douczanie_dlc\FX_250520_samiec_DAY5_CTRL_wt_9.mp4:
+    crop: 0, 1020, 0, 678
+individuals:
+- Dem
+- Obs
+uniquebodyparts: []
+multianimalbodyparts:
+- Ear_left
+- Ear_right
+- Nose
+- Center
+- Lateral_left
+- Lateral_right
+- Tail_base
+- Tail_end
+bodyparts: MULTI!
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+start: 0
+stop: 1
+numframes2pick: 40
+
+    # Plotting configuration
+skeleton:
+- - Center
+  - Lateral_left
+- - Lateral_left
+  - Tail_base
+- - Lateral_right
+  - Tail_end
+- - Ear_left
+  - Nose
+- - Ear_left
+  - Lateral_right
+- - Nose
+  - Lateral_right
+- - Ear_right
+  - Center
+- - Lateral_right
+  - Tail_base
+- - Center
+  - Tail_base
+- - Ear_left
+  - Ear_right
+- - Nose
+  - Lateral_left
+- - Ear_right
+  - Nose
+- - Ear_left
+  - Lateral_left
+- - Ear_right
+  - Lateral_right
+- - Tail_base
+  - Tail_end
+- - Lateral_left
+  - Tail_end
+- - Center
+  - Lateral_right
+- - Ear_left
+  - Center
+- - Ear_right
+  - Lateral_left
+- - Nose
+  - Center
+skeleton_color: gray
+pcutoff: 0.6
+dotsize: 3
+alphavalue: 0.7
+colormap: rainbow
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 0
+default_net_type: dlcrnet_ms5
+default_augmenter: multi-animal-imgaug
+default_track_method: ellipse
+snapshotindex: -1
+batch_size: 8
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
